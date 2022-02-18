@@ -1,0 +1,4458 @@
+fileFormatVersion: 2
+guid: baa970fab961dad4ab6e780a87a9ee29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 960
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05bd192a3d4af41aacf8013910b59c
+      internalID: 1825120741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 960
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32923d64d7a495843a761c99335309f7
+      internalID: -1124843602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 960
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a48e65e56e17488838b938b5a7117
+      internalID: -1336348839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 960
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d46197dd3735804fa84028dde726045
+      internalID: -1826106535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 960
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ebc2b225bde094c9da975ab92c3a6c
+      internalID: 1940516958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 960
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc07327be8d3994dbee8b702a349192
+      internalID: 470238578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 960
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a51cdb40328284394df43b2d2b81b8
+      internalID: -1236160177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 920
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c922834a415c4399ce8ddbc4cc020
+      internalID: 154524551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 920
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f56a3ddf5af6c49b82c7473524d087
+      internalID: -37168644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 921
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375a2c9bdd201c04a993976935bcbd32
+      internalID: -631232789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 921
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414302dac1891a47b5cbb0e287eb83f
+      internalID: -207627240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 920
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56eec315ce2c74fbca2817ea7b9b10
+      internalID: -988023176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 920
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0f8c422dad794a94c038b4f6b15a7
+      internalID: 160299507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 920
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a315c987903848ae6e650fccbee6c
+      internalID: 335472632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 880
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5ed8d541cd18499e4a7cdbb2ee2c7
+      internalID: -1152103666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 880
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0a2508a293ea40889b547df334eeb
+      internalID: 1569277425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 880
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561dab74a633204b87eda440dc19629
+      internalID: -1269046330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 880
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e232f48c776cf4eb74f6cbd7df09af
+      internalID: 1458185336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 880
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa70b254d48cd04882a7c0fed27b932
+      internalID: -1694877700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 880
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6ec24b1f40a84dbed1ca8139e93df
+      internalID: 179676378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 880
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803aedcf7156ae499d6d58b9ebc460d
+      internalID: -1026236239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 880
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9e643eb8644749b5c1a776ae7a21b
+      internalID: 905582517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 824
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95a63dd9652814a9aabb658d44abe1
+      internalID: 320368294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 824
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae4f29aa7e1b474d9b8bbc45d183b4d
+      internalID: 1370436873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 824
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9aa5cdabb39374e92611be8b711434
+      internalID: -1765092766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 824
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a257a650158244bdca3eaffd3cab3
+      internalID: -363149177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 824
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349657c1f73a70e428d282ef65cca32a
+      internalID: 590732452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 824
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41529877d24574a4eac8b16646f7da82
+      internalID: 1622303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 824
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8100a8766e6dd544aa2b58da795db6b
+      internalID: 1486793054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 824
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f6df81520a114585ec2fdb1fdb73d
+      internalID: -617540181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215cab1ea13f824f8806dbbc65aaa48
+      internalID: 826793666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 784
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e73ff7d1ce9a14682b008c4973f914
+      internalID: -945086612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 785
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84bd506269b20468e5f8931224b2fa
+      internalID: -452495777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 784
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8aba3a742698b4c888cba0e1c1c9a5
+      internalID: 1632935832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 794
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf651db56032a44a295b4e7a7d8b40
+      internalID: -968117066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 785
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f8a2002c491a4f82540c332517827
+      internalID: -1845124210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 795
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5559705c278224592c33a5f2f87687
+      internalID: 1514025393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 784
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8881cc644c56249811ff283aa34fab
+      internalID: 1279909193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 736
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d76f79741b5141985ea7fdf57badf
+      internalID: -1121813565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 736
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444aa09c499377f45aa21fe78437b536
+      internalID: -770055735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 736
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f53a09275d2e1a4e8ddd09c06873a37
+      internalID: -1955905830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 736
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e5244067f76044ae9bab3a565bc37
+      internalID: 1516714510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 739
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e06e148f558664f85708dea88d94da
+      internalID: -1429105575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 736
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34653cad1805dd74081e4d4c21242a81
+      internalID: 1229472196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 739
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8a01b8208314b43b1c59f3f1da6c65
+      internalID: 1276312368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 736
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c2ff7743cca5428308d08a69a9454
+      internalID: -671844661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 698
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202265fdfd1326846b01a192b47bbb5d
+      internalID: 1088108800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 698
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf94463039631c4781aa8439310d4a8
+      internalID: -126346592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 698
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153f9b1c9d75cb40a27a67dc4c62892
+      internalID: 292170157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 700
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03def3c17ffeebb4c9808546bb2cedda
+      internalID: 1484146464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 700
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5148811d69071f44a6a0ea266fec1ee
+      internalID: -1111888151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 700
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accdca52525412a4085013e1d03a4ad8
+      internalID: -204018062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 673
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7597c6ca16ff794993a22388f5e99e1
+      internalID: -1737305314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 674
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f00f5af8e6604db079d0323e54747
+      internalID: 802575762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 673
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4948b9bc631246b47e22448e6297e
+      internalID: 1991173540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 673
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d2b07be3ee9044a885bb76376aa19
+      internalID: 884852363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94976864e7bb524db3fa6e87ddd90e0
+      internalID: -1398033885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 672
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9ffe3b3f19f14bbf97f5e34a9c45b
+      internalID: -636257976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 616
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb488a7ca692294fb06a32cdc84d135
+      internalID: -1803878231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 616
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179436ad77a7a6e46a147686a1a4435c
+      internalID: 369445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 616
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ecc36dbd5a06f41b07b095de9f4174
+      internalID: 1515036374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 618
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793dac657449a964ea5c498a9256db83
+      internalID: -177153149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 618
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4ba154aa50e74da5f153426ef8062
+      internalID: 1381963382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 576
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ea3138ba2aea45bc4c331b7a7eb12
+      internalID: 980010196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 576
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ec6fa619427249b2458aad115add2
+      internalID: -304656712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250765ef9e8e4c749891f9cc13a127be
+      internalID: -1150543065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 576
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798177f6ad59d143bc4af6ee5475bf5
+      internalID: -1757220632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b07496302360741a755c45fa158a79
+      internalID: -720393519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec5ab5e3b372b4caea27c780666667
+      internalID: -709884736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143087ce336978489cac722926563a1
+      internalID: 935127438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 576
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d499f6d729e704e98d823f54b1b851
+      internalID: 1762242693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eded5c8cc811f643be1ca03977475db
+      internalID: 377349665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_72
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21637016b3dc0aa4984fddbbac2e28ad
+      internalID: 1261540174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea2b7fbef15fb44ea71ef67e8a40657
+      internalID: -440473855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2409b46472cd44a6b20d6d9a6dd32
+      internalID: 1579816175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a3915abd5b48449b44ad4d3c3fde94
+      internalID: -2096988400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_76
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 536
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c4e61120d6bc4199f74182bf7b2b7
+      internalID: -1298230311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839675e8887f4b4fb57ccda5d34006a
+      internalID: -1490798875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdbafc06793b544fb53a3ebf63eeda2
+      internalID: -1060842504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 483
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4baec150e6fd2245a1aa17220be7ee3
+      internalID: 1986915084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 483
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a87c3eb01f7bd4bb1e9a5b7e77aa8f
+      internalID: 2036953216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 483
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3885011c281f14fad3351c5563a497
+      internalID: -1622483616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_82
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 440
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1c73c7afcd4e74d87100a676ceadb6
+      internalID: 1360576351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 440
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f56d82247fd154e845d2147366c7fe
+      internalID: 1834222960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_84
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 440
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa36eccd64da1e45b31769a3958787d
+      internalID: 385870284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_85
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 440
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61da8da977c8b74abc5a3ed680ec179
+      internalID: -1842882674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 440
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041387f7239d4f049bc99c6259eadf1c
+      internalID: 1166084546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_87
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 440
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87f3a332e8e2b4893b037510512418
+      internalID: -1584746388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1be38d8852eea4283ab932bfac057a
+      internalID: -2035386333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 440
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e882d14b67af44a5bdfa92a7f87ab
+      internalID: -1621283044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_90
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 393
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90da21af1d3ab6469d9d6576359aa7c
+      internalID: -86624402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 393
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95544102dbad404b881ce6559e06371
+      internalID: 1242451226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_92
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 393
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020060b5e7e5c294b8d8020da09c7f67
+      internalID: 1429107427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 393
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd99a17d3e5514d9df79b2632e0b00
+      internalID: 875093512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 394
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa4db59deb1f0468263c13e9a6f9be
+      internalID: 918715425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 394
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae244b3c70bda84992edca95466f3f9
+      internalID: 1579532069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 394
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336784ef45f9a346a47ff994e9113a7
+      internalID: 1631735458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 394
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe903fb22fe6648bbf71b851faf9d2
+      internalID: -827624928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 346
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c93c70c4e65949ad5fd36e2500196
+      internalID: 816167039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 346
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e441a2e2ff4e6648a6cd9b27223fad9
+      internalID: -2040895052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 346
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fafa913eaf0654ea59593ddd93848e
+      internalID: 1983419602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 346
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608013a55a9de104491fe5055adb7e64
+      internalID: -436667494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_102
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 344
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c85ba935abef241b811a9f85a2683b
+      internalID: 1832188702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_103
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 344
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ede54c89c2aa942b6938d8812dd9bc
+      internalID: -1081574246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_104
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 344
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fcc08a152dd3a43b97fdb069d7246d
+      internalID: -306355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_105
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 344
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6786af1217990504fb71f23b4d8a68b4
+      internalID: -1801442408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_106
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 307
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbdba3899cd36c438bbcdeef5a8f318
+      internalID: 1044823920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_107
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 306
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a07c0a6fd2304ab6a8ea9894ab3a3
+      internalID: 2036244232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_108
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 307
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c883606690fc5f40987f9d26fb8da6f
+      internalID: -562106561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08c001cad4118c419a933c5e3de78c4
+      internalID: -651016915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_110
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32470d76aa272aa48aeccb110f44a85d
+      internalID: -214065955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_111
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 304
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df006d29cd58445903c5fbff4dea0b
+      internalID: 1087478354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_112
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 304
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182b9b36fb314443bcc408bc15ca2a1
+      internalID: 454806429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 264
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a0e08596efa0f45a54a482fcf0fe9a
+      internalID: 496570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ccc323e4548b4c9e0729650ef8b91
+      internalID: -1509543622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 266
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357fb8b23161a944b69facb2f478c7f
+      internalID: -797733213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352a348fbc5f85448d8aeadd1ba309b
+      internalID: 950902053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_117
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 264
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bfdd34a4eec2b48a7940552790da09
+      internalID: 958219953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84876e84f1292489bced9bd6e75d49
+      internalID: 296427605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_119
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 226
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498cd4672532b704bb70a42d1146555d
+      internalID: -1591841104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_120
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 224
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551be2eaa8c6db6419e8a7df9d84f646
+      internalID: 1251966959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_121
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 228
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb72f1c7ce6be4a920e83efe549f94
+      internalID: 1177143513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_122
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 228
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5252a0cd62a254a8abcec9c58d2582
+      internalID: 318471781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_123
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 228
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b986e536fea334094c7e7273258fe7
+      internalID: 1370295331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 224
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df856cb9377224da6b4e05890bca9e
+      internalID: -1746805989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_125
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 224
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3a8e15fae5324ebe5564839151bd6
+      internalID: 1697290105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_126
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99785d84fabe7447b9885c4d3ace3e0
+      internalID: 760009272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_127
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 174
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39f2baa2d0333d46b8d9bbb002b01c7
+      internalID: -217307362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_128
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 171
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6b9722414606468f9106a00bdc49f
+      internalID: -1929453242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_129
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 173
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc999a65aaffea47989ce13f2d9d3ab
+      internalID: 1272219709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_130
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa804432d3af84c8f88de4c386c927
+      internalID: 2048474336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_131
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 168
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293a6115e63e7842bae17051e740576
+      internalID: 1420172283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_132
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 128
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b84a0a7563541469630da9f3919eca
+      internalID: -1138336876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_133
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a675da1f155b814197736bc51306fd1
+      internalID: 1405206370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_134
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec41e0b1be81346b310be54e3e2215
+      internalID: -2038392328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_135
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1487d7a15d6c2c41b5022959067fdf2
+      internalID: 2111610903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098fdf2755dc8149b41a1b2ca03f802
+      internalID: -1974858140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_137
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b4da6bf8c1214984389e2da317e12
+      internalID: 926470583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_138
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d7eeddac106441aed9e4546b9073c
+      internalID: 248235258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_139
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ddbbb16f61984bb50f5dbfba47bf5
+      internalID: -1018090136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_140
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479228325bff7ff41838528225a4ac83
+      internalID: -1624199106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1a9e268d618545816ab0eeb96c51a
+      internalID: 2001162569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f0348f534f5940b72d94840af904b
+      internalID: 1864239130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdea6d644195c4d9b2b9d55dfbef0e
+      internalID: 2037535195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_144
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4bb8799f3f3b74b866d5f5521a73cb
+      internalID: 1319331948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8034adbf7bca474eb60720788495d46
+      internalID: -751923961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_146
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778398fec892e924aafaece927218f94
+      internalID: -87425713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98278211395d7734893770bc4cedc761
+      internalID: 760925562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_148
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b895002b08ea4682f057a6879e72b
+      internalID: 140801228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599fb36a501a6914ebe95e2ad7a87c3e
+      internalID: -1691872241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64dab4442a696479d5e286b3812762
+      internalID: -1966987847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_151
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536203e2c82db234a868a52c1b1a6c7d
+      internalID: 599095622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_152
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10dcfd9ef77ad74687028249b04004d
+      internalID: 2128998650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec30cc265bcb04499a3ad16132b710
+      internalID: -1252687055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_154
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b05d028a4bdf74aaa26b1a8e0295c8
+      internalID: 1605833182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_155
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191c3698b17b484190330cc007af5bf
+      internalID: 1377762949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_156
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 66
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9244c8e86137b49baf4ad1c1ff48a9
+      internalID: -1940527728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_157
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5df0dbc2790e44bdb050202b5e93d
+      internalID: -1671388073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_158
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 66
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee69028171f0d84fbf1c2358bdfbb67
+      internalID: -1555998755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_159
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 66
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a782f35e0ec0674c959e5fec7da7f41
+      internalID: 1586117097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_160
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 66
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f94bc9e3eabc74bb14042ef16ff64a
+      internalID: 1371272916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_161
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fea5f0b7d3e14e910973a000b826b
+      internalID: 1228842778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f92d2fb079f204dbe05679ec8b89c7
+      internalID: -594444389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_163
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b4deb5a7eea646bb5409e26d4fbcf
+      internalID: 267900429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_164
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c779020412544b409de8c3ef2ed6fbb
+      internalID: 117850101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_165
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0d4647d8423048a9894f4d9cc4d71
+      internalID: 1195094148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557ee9f1eea6934cbe2158708e1de01
+      internalID: -1128642542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f33aec21e7e6341bedc1476cdcb477
+      internalID: -1859275520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_168
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1749312199c4e08408cea9013bb32c34
+      internalID: -1038189961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_169
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1dc7106088934eb2737385313344c
+      internalID: 1082811040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_170
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac2d1c100d9dc4cadf5ef9610a0c4b
+      internalID: 455307145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_171
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b551c41e0f555743aac729f77413af1
+      internalID: 2070974247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_172
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c3859e8b7e3044ac562a0c3de1a21
+      internalID: -2030644663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e76d057ad4bc41aa22e70329e6c7c
+      internalID: 2021889245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 19
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409bef118100e94593fa048a1492485
+      internalID: 455664413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_175
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fa685569e1294faa74666377e4750
+      internalID: 39288725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_176
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dada9902dc80746924fb6ad6b64773
+      internalID: -1539541717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfcf614c19edf4387b6a0e9652e3a7
+      internalID: -1556517633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_178
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa6eb12eaff4994097abfb7dab6919c
+      internalID: 1128465040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5afbe43fab9bf4b9d1505cdea622cd
+      internalID: 1812318968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_180
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3732839f3faed40af197c862dcfdff
+      internalID: 2130500028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_181
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad6a2b9aaf12c4f8c5d3c35ed95000
+      internalID: -50604219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee06166c0137714da8483a48a5de029
+      internalID: 306251295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_183
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a3e96dcf630e4b8986476ce52a03b
+      internalID: -1375098022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_184
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469b69e869f5a24ea563db2e1c1e5cf
+      internalID: -224202151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_185
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c654bb7dee65428339bc8df7b6229
+      internalID: -872035045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_186
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e47650840ed84782c6cc86d2b8204
+      internalID: 2108000350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_187
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45812733cf5002544bf1ebc8f50a6d4d
+      internalID: 640897187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_188
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b0809bfe8f65479398e016d9fda4e
+      internalID: 203155849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_189
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977833a68be349145bdfed702bf8817e
+      internalID: -822762130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_190
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf93678c89a07747be4c56713135e46
+      internalID: -70151440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_191
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f732d76c81fa074e8d90f238b986d75
+      internalID: 566116002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_192
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45af0c72350ce445a8b23fa14f25bc0
+      internalID: 964952505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_193
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88344e660508fb947a6a9efaed19cb04
+      internalID: -873279827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_194
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab32062041e894696d21b387e7ad62
+      internalID: 1102137355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_195
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2c6e7bf6495e4eb609a3948e1129d
+      internalID: -1910204725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_182: 306251295
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_62: 1381963382
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_14: -1152103666
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_47: -126346592
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_191: 566116002
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_187: 640897187
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_50: -1111888151
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_10: -207627240
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_109: -651016915
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_12: 160299507
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_21: 905582517
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_25: -363149177
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_55: 884852363
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_126: 760009272
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_30: 826793666
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_100: 1983419602
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_61: -177153149
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_65: -1150543065
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_57: -636257976
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_77: -1490798875
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_36: 1514025393
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_64: -304656712
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_81: -1622483616
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_120: 1251966959
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_72: 1261540174
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_111: 1087478354
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_135: 2111610903
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_33: 1632935832
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_13: 335472632
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_6: -1236160177
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_110: -214065955
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_140: -1624199106
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_155: 1377762949
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_138: 248235258
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_151: 599095622
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_164: 117850101
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_92: 1429107427
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_158: -1555998755
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_52: -1737305314
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_4: 1940516958
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_169: 1082811040
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_160: 1371272916
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_190: -70151440
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_102: 1832188702
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_5: 470238578
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_18: -1694877700
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_16: -1269046330
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_143: 2037535195
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_176: -1539541717
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_194: 1102137355
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_11: -988023176
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_63: 980010196
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_122: 318471781
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_171: 2070974247
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_34: -968117066
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_67: -720393519
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_96: 1631735458
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_75: -2096988400
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_172: -2030644663
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_84: 385870284
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_173: 2021889245
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_174: 455664413
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_41: 1516714510
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_136: -1974858140
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_148: 140801228
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_1: -1124843602
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_141: 2001162569
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_53: 802575762
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_157: -1671388073
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_156: -1940527728
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_132: -1138336876
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_149: -1691872241
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_107: 2036244232
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_27: 1622303003
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_103: -1081574246
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_192: 964952505
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_145: -751923961
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_71: 377349665
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_113: 496570099
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_117: 958219953
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_130: 2048474336
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_181: -50604219
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_193: -873279827
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_153: -1252687055
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_168: -1038189961
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_144: 1319331948
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_83: 1834222960
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_131: 1420172283
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_2: -1336348839
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_15: 1569277425
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_28: 1486793054
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_80: 2036953216
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_88: -2035386333
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_69: 935127438
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_184: -224202151
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_76: -1298230311
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_137: 926470583
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_159: 1586117097
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_166: -1128642542
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_106: 1044823920
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_125: 1697290105
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_185: -872035045
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_179: 1812318968
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_26: 590732452
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_133: 1405206370
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_178: 1128465040
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_54: 1991173540
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_73: -440473855
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_3: -1826106535
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_139: -1018090136
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_186: 2108000350
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_22: 320368294
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_23: 1370436873
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_9: -631232789
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_147: 760925562
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_127: -217307362
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_161: 1228842778
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_90: -86624402
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_189: -822762130
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_45: -671844661
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_170: 455307145
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_74: 1579816175
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_58: -1803878231
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_31: -945086612
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_82: 1360576351
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_97: -827624928
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_32: -452495777
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_60: 1515036374
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_79: 1986915084
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_128: -1929453242
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_37: 1279909193
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_116: 950902053
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_19: 179676378
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_87: -1584746388
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_59: 369445390
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_165: 1195094148
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_51: -204018062
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_7: 154524551
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_154: 1605833182
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_129: 1272219709
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_42: -1429105575
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_8: -37168644
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_17: 1458185336
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_66: -1757220632
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_86: 1166084546
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_112: 454806429
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_115: -797733213
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_94: 918715425
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_163: 267900429
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_48: 292170157
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_91: 1242451226
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_24: -1765092766
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_98: 816167039
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_177: -1556517633
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_167: -1859275520
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_43: 1229472196
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_99: -2040895052
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_0: 1825120741
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_56: -1398033885
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_180: 2130500028
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_29: -617540181
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_108: -562106561
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_123: 1370295331
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_93: 875093512
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_118: 296427605
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_175: 39288725
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_46: 1088108800
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_101: -436667494
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_85: -1842882674
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_121: 1177143513
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_70: 1762242693
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_152: 2128998650
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_68: -709884736
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_39: -770055735
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_95: 1579532069
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_35: -1845124210
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_124: -1746805989
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_195: -1910204725
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_104: -306355423
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_49: 1484146464
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_40: -1955905830
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_78: -1060842504
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_188: 203155849
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_183: -1375098022
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_119: -1591841104
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_146: -87425713
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_150: -1966987847
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_44: 1276312368
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_162: -594444389
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_134: -2038392328
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_89: -1621283044
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_105: -1801442408
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_142: 1864239130
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_20: -1026236239
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_114: -1509543622
+      PC Computer - Sonic the Hedgehog CD 2011 - Miles Tails Prower_38: -1121813565
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
