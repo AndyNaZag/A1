@@ -27,20 +27,21 @@ public class PlayerBehaviour : MonoBehaviour
     public CinemachineVirtualCamera spikesCamera; 
     
     [Header("UI Interactable")] 
-    public GameObject doorSign;
     public bool isInteracting;
-    
-    private Rigidbody2D rigidBody2D;
+    public Door door;
+    public AudioSource audio;
 
+    private Rigidbody2D rigidBody2D;
+    private bool test;
 
     
     void Start()
     {
         rigidBody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        doorSign.SetActive(false);
-
+        audio = GetComponent<AudioSource>();
         Debug.Log("Scene Number: " + SceneManager.GetActiveScene().buildIndex);
+        test = true;
     }
 
    
@@ -62,14 +63,19 @@ public class PlayerBehaviour : MonoBehaviour
         float run = Input.GetAxisRaw("Horizontal"); //GetAxis sólo todos los valores entre -1 y 1. Raw, sólo -1,0 y 1.
         float jump = Input.GetAxisRaw("Jump"); //Jump 0 jump 1 con el Raw    
         float fly = Input.GetAxisRaw("Fly")*flyForce;
-        if(fly > 0)
+        if(fly > 0 && test)
         {
-            Vector2 move = new Vector2(run * horizontalForce, fly);
-            rigidBody2D.AddForce(move);
+            StartCoroutine(Fly());   
+            audio.mute = !audio.mute;
+            run = Flip(run);
+            animator.SetInteger("AnimationState", 3); //Fly State
+            Vector2 move = new Vector2(run * horizontalForce, fly);            
+            rigidBody2D.AddForce(move);         
+            
         } else if (isGrounded)
-        {
-                      
-
+        {                 
+            audio.mute = true;
+            test = true;
             if (run != 0)
             {
                 run = Flip(run);
@@ -84,16 +90,22 @@ public class PlayerBehaviour : MonoBehaviour
             {
                 animator.SetInteger("AnimationState", 2); //Jump State
             } 
-            else if (run == 0)
-            {
-                animator.SetInteger("AnimationState", 3); //Crocuh State
-            }
 
             Vector2 move = new Vector2(run * horizontalForce, jump * verticalForce );
             rigidBody2D.AddForce(move);
                       
         }
+       
 
+    }
+
+    
+    IEnumerator Fly()
+    {
+        
+        yield return new WaitForSeconds(1.4f);
+        test = false;
+        
     }
 
     private float Flip(float x)
@@ -117,7 +129,7 @@ public class PlayerBehaviour : MonoBehaviour
             playerCamera.Priority = 5;
             doorCamera.Priority = 10;
             spikesCamera.Priority = 5;
-            doorSign.SetActive(true);
+            door.OnDoor();
         }
 
         if(other.gameObject.CompareTag("SpikesCamera"))
@@ -125,7 +137,9 @@ public class PlayerBehaviour : MonoBehaviour
             playerCamera.Priority = 5;
             doorCamera.Priority = 5;
             spikesCamera.Priority = 10;
+            animator.SetInteger("AnimationState", 4); //Dead State
         }
+
     }
 
     public void OnTriggerExit2D(Collider2D other)
@@ -134,7 +148,6 @@ public class PlayerBehaviour : MonoBehaviour
         {
             playerCamera.Priority = 10;
             doorCamera.Priority = 5;
-            doorSign.SetActive(false);
         }
 
         if(other.gameObject.CompareTag("SpikesCamera"))
